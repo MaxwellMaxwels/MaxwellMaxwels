@@ -43,11 +43,5 @@ I’m intentionally combining **Machine Learning** and **Data Engineering**, bec
 
 ---
 
-### 📫 How to reach me
-- GitHub: you’re already here 🙂
-- LinkedIn: *(add when ready)*
-
----
-
 ### ⚡ Fun fact
 I care more about **whether a model survives production** than whether it scores 0.2% higher offline.
