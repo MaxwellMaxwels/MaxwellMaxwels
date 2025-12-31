@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I’m **Maxwell**, a **Full-stack Machine Learning Engineer** focused on building **end-to-end ML systems** — from data ingestion and pipelines to model training, deployment, and monitoring.
+I’m **Maxwell**, a **Full-stack Machine Learning Engineer** focused on building **end-to-end ML systems**  from data ingestion and pipelines to model training, deployment, and monitoring.
 
 I’m intentionally combining **Machine Learning** and **Data Engineering**, because models are only as good as the systems that feed, serve, and scale them.
 
@@ -17,6 +17,7 @@ I’m intentionally combining **Machine Learning** and **Data Engineering**, bec
 - Advanced **Machine Learning Engineering** practices
 - **MLOps** (model versioning, CI/CD, monitoring, reproducibility)
 - Distributed data processing and scalable systems design
+- LLMs
 
 ---
 
